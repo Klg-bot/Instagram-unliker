@@ -9,8 +9,8 @@ from instagram_private_api import Client, ClientError, ClientLoginRequiredError
 
 like_removal_amount = 100
 quiet_mode = False
-username = "yaohan_s"
-password = "Fiftyshades251158114!"
+username = ""
+password = ""
 
 # =======================================
 
